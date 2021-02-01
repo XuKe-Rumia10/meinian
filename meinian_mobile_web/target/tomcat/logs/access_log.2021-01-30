@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET / HTTP/1.1" 200 2033 http-bio-80-exec-1 53
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /css/page-health-index.css HTTP/1.1" 200 9080 http-bio-80-exec-3 3
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /css/page-health-login.css HTTP/1.1" 200 9718 http-bio-80-exec-2 5
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /plugins/vue/axios-0.18.0.js HTTP/1.1" 200 12948 http-bio-80-exec-6 6
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /plugins/elementui/index.css HTTP/1.1" 200 198714 http-bio-80-exec-4 9
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /plugins/jquery/dist/jquery.min.js HTTP/1.1" 200 86659 http-bio-80-exec-5 10
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /plugins/healthmobile.js HTTP/1.1" 200 2436 http-bio-80-exec-7 6
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /plugins/elementui/index.js HTTP/1.1" 200 494238 http-bio-80-exec-9 6
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /plugins/vue/vue.js HTTP/1.1" 200 300248 http-bio-80-exec-8 7
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:15 +0800] "GET /img/launch_background.jpg HTTP/1.1" 200 120438 http-bio-80-exec-6 3
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:18 +0800] "GET /pages/setmeal.html HTTP/1.1" 200 2577 http-bio-80-exec-6 2
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:18 +0800] "GET /css/page-health-order.css HTTP/1.1" 200 11454 http-bio-80-exec-6 2
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:18 +0800] "GET /fonts/health-icon.ttf?l7yt0w HTTP/1.1" 200 14764 http-bio-80-exec-1 4
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:19 +0800] "POST /setmeal/getSetmeal.do HTTP/1.1" 200 6458 http-bio-80-exec-6 615
+0:0:0:0:0:0:0:1 - - [30/Jan/2021:08:31:23 +0800] "GET /plugins/vue/axios.min.map HTTP/1.1" 404 1001 http-bio-80-exec-3 3
