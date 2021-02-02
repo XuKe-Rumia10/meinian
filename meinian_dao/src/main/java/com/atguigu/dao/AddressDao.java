@@ -11,7 +11,7 @@ import java.util.List;
  * @Description
  * @date 2021/2/1  10:59
  */
-public interface AddressDao {
+public interface AddressDao{
 
     List<Address> findAllMaps();
 
