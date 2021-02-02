@@ -7,6 +7,6 @@ package com.atguigu.utils;
  */
 public class ABC {
     public static void main(String[] args) {
-        System.out.println("1111111111111hotfix");
+        System.out.println("1111111111111master");
     }
 }
